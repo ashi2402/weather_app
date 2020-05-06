@@ -37,7 +37,8 @@ header a {
 }
 
 .portrait  img {
-    width: 250px;
+    width: 50px;
+    height: 50px;
 }
 input {
 border: 1px solid #cccccc;
